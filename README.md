@@ -1,5 +1,5 @@
 # About
-About a script to remove movies/series that are played on my emby server.
+A script to remove movies/series that are played on my emby server.
 
 # Installation
 Clone repo and install pipenv then in the directory run.
